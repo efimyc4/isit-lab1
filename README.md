@@ -73,7 +73,7 @@
 
 ---
 
-![alttext](/images/subject-area.png)
+![alttext](D:\GithubProjects\isit-lab1\diagrams\images\subject-area.png)
 
 ## 4. Пользователи и роли
 
