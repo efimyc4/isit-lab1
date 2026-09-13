@@ -73,7 +73,7 @@
 
 ---
 
-![alttext](./diagrams/images/subject-area.png)
+![alttext](/images/subject-area.png)
 
 ## 4. Пользователи и роли
 
